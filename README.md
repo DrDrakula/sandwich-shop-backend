@@ -1,25 +1,8 @@
-# README
+## Sandwich Shop
+Video Game with the goal of earning money by making and selling sandwiches. It was built with JavaScript, HTML, CSS, Ruby on Rails. [YouTube Demo](https://www.youtube.com/watch?v=x1NUTggPFDo).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Motivation Behind the App
+The app was made to provide people with some entertainment while on long rides, waiting in line, or when stuck in a subway... :)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# sandwich-shop-backend
+## Setup
+To setup the game you need to clone both the frontend and the backend repo, and run the backend Rails server. After that you open the index.html file inside of the and click away.
